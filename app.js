@@ -1,3 +1,3 @@
-document.write("Hello World!");
+document.write('Hello World!');
 
-console.log("App loaded");
+console.log('App loaded');
